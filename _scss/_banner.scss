@@ -19,9 +19,8 @@ body {
 }
 .avatar {
     height: 24px;
-    margin-top: 8px;
 }
-.github {
+.github .github-tag {
 	margin-top: 8px;
 	margin-right: 2%;
 	line-height: 14px;
@@ -47,7 +46,7 @@ body {
 	display: inline;
 	text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
 }
-.github {
+.github .github-tag {
 	font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	float: right;
@@ -75,7 +74,7 @@ body {
 	box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
 	background-color: #93bd20;
 }
-.github:hover {
+.github .github-tag:hover {
 	background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #749619), color-stop(100%, #527f0e));
 	background: -webkit-linear-gradient(#749619, #527f0e);
 	background: -moz-linear-gradient(#749619, #527f0e);
