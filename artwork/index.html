@@ -3,7 +3,9 @@ layout: default
 ---
 
 <script type="text/javascript">
-  $(".svg-icon.rss").attr("href", "{{ site.baseurl }}/artwork/feed.xml")
+  $(window).load(function() {
+    $(".svg-icon.rss").attr("href", "{{ site.baseurl }}/artwork/feed.xml");
+  })
 </script>
 
 <div class="posts">
