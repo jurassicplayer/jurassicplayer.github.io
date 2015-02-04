@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">    
       
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3><span class="post-date">{{ post.date | date: "%B %e, %Y" }}</span>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3><span class="post-date" style="align: right; display: inline;">{{ post.date | date: "%B %e, %Y" }}</span>
           
       <div class="entry" style="max-height: 80px; overflow: hidden;">
         {{ post.content | truncatewords:40}}
