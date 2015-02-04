@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.categories.arts %}
+  {% for post in site.categories.art %}
     <article class="post">    
       <span class="post-date"><h4>{{ post.date | date: "%B %e, %Y" }}</h4></span>
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %e, %Y" }}</a></h3>
