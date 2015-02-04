@@ -22,7 +22,7 @@ permalink: /blog/
                     <a href="{{ site.url }}{{ post.url }}" class="series-recent">Series: {{ post.series }}</a>
                     {% endif %}
                     <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
-                    <div class="time">{{ post.time }}</div>
+                    <span class="post-date"><h4>{{ post.date | date: "%B %e, %Y" }}</h4></span>
                     
                     {{ post.excerpt | markdownify }}
                     <div class="tagPanel">
@@ -53,7 +53,6 @@ permalink: /blog/
         var lower_tag = tag.toLowerCase();
         if (lower_tag && document.getElementById('tag-' + lower_tag)) {
             document.getElementById('tag-' + lower_tag).style.display = 'block';
-            document.getElementById('tagTitle').innerHTML = lower_tag;
         } else {
             document.getElementById('tagTitle').innerHTML = 'Illegal Tag Query';
         }
