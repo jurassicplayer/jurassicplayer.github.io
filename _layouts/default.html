@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
+    <link rel="icon" href="{ site.baseurl }}/resources/webimage/favicon.png">
     <title>{% if page.title %}{{ page.title }} {% else %} The Weeaboository {% endif %}</title>
 
     <meta name="author" content="{{ site.name }}" />
@@ -12,15 +12,23 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(window).load(function() {
+        $(".loader").fadeOut("slow");
+      })
+    </script>
   </head>
 
   <body>
-    <div class="header">
-      <div class="banner">
-        <a href="{{ site.baseurl }}/" class="banner-tag"><img class="avatar" src="{{ site.avatar }}" />The Weeaboository</a>
-      </div>
-      <div class="github">
-          <a class="github-tag" href="http://github.com/jurassicplayer">GitHub</a>
+    <span class="loader"><span class="loading"></span></span>
+	<div class="wrapper">
+      <div class="wrapper-header">
+        <div class="header">
+          <a href="http://jurassicplayer.github.io"><span id="banner-image"></span>
+          <span id="banner-name">The Weeaboository</span></a>
+          <nav id="navbar"><a href="#">Blog</a><a href="#">Project<a href="/about">About</a></nav>
+        </div>
       </div>
     </div>
     
@@ -44,16 +52,14 @@
     </div>
     -->
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main" class="wrapper-content">
       {{ content }}
     </div>
 
     <div class="wrapper-footer">
-      <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
-      </div>
     </div>
 
     {% include analytics.html %}
