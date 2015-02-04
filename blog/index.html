@@ -21,7 +21,8 @@ permalink: /blog/
                     {% if post.series %}
                     <a href="{{ site.url }}{{ post.url }}" class="series-recent">Series: {{ post.series }}</a>
                     {% endif %}
-                    <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3><span class="post-date"><h4>{{ post.date | date: "%B %e, %Y" }}</h4></span>
+                    <span class="post-date"><h4>{{ post.date | date: "%B %e, %Y" }}</h4></span>
+                    <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
                     
                     {{ post.excerpt | markdownify }}
                     <div class="tagPanel">
