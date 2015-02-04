@@ -25,6 +25,7 @@ Changes desktop background to a random image in a defined folder specific to the
 So, if you happen to be like me and use IRSSI with a semi-transparent terminal, you can set a specific folder aside (wallpapers/dark for me) just for that full screen irssi you have. Why would I do that? Simply because I have wallpapers that range a variety of colors and some of them make it really hard to see my irssi chat, so I'll just keep the background a set sort of color, and my eyes don't have to strain to see the text.
 
 Also, the command that I used to set the random image is searching for symlinks (I have the actual images in a different folder, and duplicates waste space), so keep that in mind.
+
 -------------------------------------------------------------------------------------------------
  
     #!/bin/bash
@@ -77,5 +78,7 @@ Also, the command that I used to set the random image is searching for symlinks 
     else
         feh --bg-fill $(find $DIR -type l -iregex '.*\.\(bmp\|gif\|jpg\|png\) | sort -R | head -1)
     fi
+
 ------------------------------------------------------------------------------------------------------------
+
 To wrap up this post, I don't claim to be amazing at bash scripting and if anything, I am terrible at it. I have absolutely no idea whether this is the optimal way to get around or not, BUT if anyone knows how to make it better, or maybe have a completely different script, feel free to post it and let others know about it. Granted it might not get very far on this rather unknown blog, but hey, at least I'll know about it :3.
