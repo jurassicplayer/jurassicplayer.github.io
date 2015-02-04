@@ -171,6 +171,7 @@ span .tag a {
 	background-image: -ms-linear-gradient(top, #606060, #303030);
 	background-image: -o-linear-gradient(top, #606060, #303030);
 	background-image: linear-gradient(to bottom, #606060, #303030);
+    -webkit-border-radius: 6;
 	-webkit-box-shadow: 0px 1px 3px #444444;
 	-moz-box-shadow: 0px 1px 3px #444444;
 }
