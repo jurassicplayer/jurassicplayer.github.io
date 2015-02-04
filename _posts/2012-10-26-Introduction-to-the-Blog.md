@@ -3,7 +3,7 @@ layout: post
 title: Introduction to the Blog
 ---
 
-<img width="200px" align="center" src="http://media.animevice.com/uploads/0/4/86162-maids_super.jpg" />
+<img width="200px" align="left" src="http://media.animevice.com/uploads/0/4/86162-maids_super.jpg" />
 
 Welcome to the Weeaboository, the blog about the misadventures of a lone anime/manga lover in the world of linux, specifically Arch Linux.
 
