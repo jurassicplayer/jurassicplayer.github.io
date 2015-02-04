@@ -41,11 +41,14 @@ body {
 
 .post, .page {
 	padding: 10px;
-    max-height: 100px;
 	color: white;
 	background-color: #343434;
 	max-width: 100%;
 	overflow: hidden;
+}
+
+.post {
+    max-height: 100px;
 }
 
 .footer {
