@@ -3,7 +3,9 @@ layout: default
 ---
 
 <script type="text/javascript">
-  $("#rss-link").attr("href", "{{ site.baseurl }}/artwork/feed.xml");
+  $(window).bind("load", function() {
+    $("#rss-link").attr("href", "{{ site.baseurl }}/artwork/feed.xml");
+  })
 </script>
 
 <div class="posts">
