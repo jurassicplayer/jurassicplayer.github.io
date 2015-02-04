@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wallpaper Woes
+tags: [bash, eyecandy, linux, script, wallpaper]
 ---
 
 So it has been much less than an actual week, but accomplishment deserves some sort of timely banter.
