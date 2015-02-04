@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Slow Wait
+tags: [Anigrate, Application, CLI, Linux, Script]
 ---
 
 So it's been about two weeks (the last post should have been later in the week...then it would be a bit more even, but meh it's still an average of one post per week) and it's time for another post. Eventually I'll be posting videos, though that may or may not happen before I replace my laptop's fan hopefully during the Thanksgiving break. In the meantime, I made a very simple opening sequence (terribly simple) that I am planning on adding to all of my videos and I might add thumbnails to the youtube previews if I split up the videos into different categories (which I might not do). I also found some catchy background music, which is always nice.

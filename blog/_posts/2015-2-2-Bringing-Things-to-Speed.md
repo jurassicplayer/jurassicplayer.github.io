@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bringing Things to Speed
+tags: [Blurb, Update]
 ---
 
 It's a brand new blog to spread the vast amounts of no knowledge that I possess in a single website that includes even the nifty stuff that I do on github every once in a blue moon.

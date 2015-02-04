@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web Browser Galore
+tags: [Application, Browser, Internet, Linux, Management, Manga, Web, AllMangasReader, Chrome, Chromium, Luakit, dwb]
 ---
 
 So relatively little to do with anime today, but recently I went looking at a new (well, new to me at least) web browser called dwb. It's a browser reminiscent of luakit, uzbl, etc. and so there is fairly little to be seen when actually using the browser. It has support for tabs, has a status bar, and aside from that, has the web page. There are of course the other general sort of features that any normal browser has (history, bookmarks, etc), but there are a number of minor differences in comparison to my preferred browser of choice (which is luakit).

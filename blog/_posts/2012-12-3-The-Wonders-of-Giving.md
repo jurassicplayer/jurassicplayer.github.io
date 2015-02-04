@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Wonders of Giving
+tags: [Blurb, Update]
 ---
 
 So it's once again been around two weeks thanks to the wonderful vacation that is Thanksgiving. With the fixing of my computer, everything is now working well and no overheating. Not only that, my brother has offered to let me use his USB microphone, though "offer" is not really the true situation.
