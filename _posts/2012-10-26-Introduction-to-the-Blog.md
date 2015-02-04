@@ -3,6 +3,8 @@ layout: post
 title: Introduction to the Blog
 ---
 
+![Maids](http://media.animevice.com/uploads/0/4/86162-maids_super.jpg)
+
 Welcome to the Weeaboository, the blog about the misadventures of a lone anime/manga lover in the world of linux, specifically Arch Linux.
 
 The idea is to post a blog post that deals with Linux as well as anime roughly once a month. What does that actually mean? Put in simple terms, I'm going to mess around with stuff in Linux, report back my findings, and possibly find some MUST HAVES for the common anime lover on linux. Maybe I'll even throw in a couple of my thoughts on various anime/manga series, though that might be rare due to time constraints keeping me away from the newest anime of the season.
