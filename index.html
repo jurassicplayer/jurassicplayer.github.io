@@ -9,7 +9,7 @@ layout: default
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
           
       <div class="entry" style="max-height: 80px; overflow: hidden;">
-        {{ post.content | truncatewords:40}}
+        {{ post.content | truncatewords:100}}
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
