@@ -50,7 +50,7 @@ permalink: /blog/tags/
     
     window.onload = function() {
         var tag = getParameterByName('tag');
-        tag.toLowerCase();
+        var tag = tag.toLowerCase();
         if (tag && document.getElementById('tag-' + tag)) {
             document.getElementById('tag-' + tag).style.display = 'block';
             document.getElementById('tagTitle').innerHTML = tag;
