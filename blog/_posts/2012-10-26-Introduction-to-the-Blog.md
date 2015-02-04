@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to the Blog
+tags: [blurb, introduction]
 ---
 
 <img width="300px" align="left" style="padding-right: 10px" src="http://media.animevice.com/uploads/0/4/86162-maids_super.jpg" />
