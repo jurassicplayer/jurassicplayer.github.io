@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from Zero
-tags: [Archlinux, Linux, Management, Raspberry Pi, Setup]
+tags: [Archlinux, Linux, Management, Raspberry_Pi, Setup]
 ---
 
 I thought I would make a post, or rather a log of setting up my raspberry pi in the event that I have to start over from scratch. Of course, this will mainly be covering the finer details of setting up the raspberry pi, since it's pretty easy to install via NOOBS. While NOOBS is probably easiest, the option is available to install just a certain distribution such as Pidora, Raspbian, etc. if you really aren't planning on using anything extra. In any case, I'm using the NOOBS lite version since I'm planning on having a cable anyways to update the install. With that said, the rest of this post is under the assumption that you have just installed Arch on your raspberry pi and are on the very first boot of your new installation.

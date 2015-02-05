@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Accumulation of PSX
-tags: [Application, Game, Linux, Playstation, PSX, Raspberry Pi, Windows]
+tags: [Application, Game, Linux, Playstation, PSX, Raspberry_Pi, Windows]
 ---
 
 So the PSX was a cool console system from ages ago with actually decent games. While thinking to myself "dam, I would like to play some of those old games", I thought I would check up on the emulator sort of things that I almost never pay attention to.

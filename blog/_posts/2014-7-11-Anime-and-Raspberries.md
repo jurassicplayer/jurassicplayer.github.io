@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anime and Raspberries
-tags: [Anime, Application, Linux, Raspberry Pi, Video, XBMC]
+tags: [Anime, Application, Linux, Raspberry_Pi, Video, XBMC]
 ---
 
 On the great quest for watching anime nicely, the raspberry pi could be a major part, but just don't watch anime on it. It's actually quite the simple story as to how this opinion came about. At the very beginning, omxplayer couldn't handle internal subs, otherwise known and pretty much universally used in the anime community as softsubs inside of the mkv container format. Much time has passed since then, and for the most part, softsubs now work with omxplayer as well as custom fonts that might be included. Thus currently, you could watch anime with some semblance of decency on the raspberry pi and if you normally stream and decided to swap to viewing anime locally, then there is probably even going to be an improvement in the quality.

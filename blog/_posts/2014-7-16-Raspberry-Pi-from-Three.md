@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from Three
-tags: [Application, Archiving, Archlinux, File System, Linux, Management, Raspberry Pi, Setup, Torrent]
+tags: [Application, Archiving, Archlinux, File_System, Linux, Management, Raspberry_Pi, Setup, Torrent]
 ---
 
 So with a great file system on your hard drive, we need to do a quick addition to our /etc/fstab to mount it at boot, but first is a recap of the other stuff we still need to do.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android and LibMTP
-tags: [Android, Archlinux, File System, gvfs, libMTP, Linux, Management, MTP, polkit]
+tags: [Android, Archlinux, File_System, gvfs, libMTP, Linux, Management, MTP, polkit]
 ---
 
 So obviously being a cool guy, you have an android device or two that you may or may not want to connect via usb to your computer. While in windows, mtp is either barely passable or you just can't get the shit to work at all. In both cases, mtp is annoying to use and all around terrible in comparison to the old way of just mounting directly in my opinion. Fortunately, the Archlinux wiki has an article on that (as with almost everything else ._.) and all that really needs to be installed are gvfs and libmtp, though apparently gvfs-mtp is still available as a separate package. It has already been merged upstream and released with gvfs 1.15.2, so any version after, you probably don't need gvfs-mtp.

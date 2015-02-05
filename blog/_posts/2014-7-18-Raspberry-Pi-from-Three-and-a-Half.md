@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from Three and a Half
-tags: [Application, Archlinux, Bash, Linux, Management, Raspberry Pi, Rtorrent, Rutorrent, Setup, Torrent]
+tags: [Application, Archlinux, Bash, Linux, Management, Raspberry_Pi, Rtorrent, Rutorrent, Setup, Torrent]
 ---
 
 So with our rutorrent and rtorrent set up, we can now move on to tackle more first world problems and start this stuff on boot. The main goal is to get lighttpd and rtorrent up and running when the pi starts up, so that we can instantly go to rutorrent after it finishes booting, and then do a little bit of configuration to rtorrent and rutorrent to smooth out some of the edges.

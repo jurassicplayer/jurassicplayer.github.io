@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from One
-tags: [Application, Archlinux, Management, Raspberry Pi, Setup, SSH, Static IP]
+tags: [Application, Archlinux, Management, Raspberry_Pi, Setup, SSH, Static IP]
 ---
 
 So we finally have a wonderfully set up raspberry pi that is ready to have a bazillion packages installed to bloat it. First, we need a list of the things we'll need in order to turn this pi into a media server that better be hauling weights for us.

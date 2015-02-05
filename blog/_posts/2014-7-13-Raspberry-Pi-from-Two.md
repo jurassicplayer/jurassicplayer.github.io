@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from Two
-tags: [Archiving, File System, Linux, Management, Raspberry Pi, Setup]
+tags: [Archiving, File_System, Linux, Management, Raspberry_Pi, Setup]
 ---
 
 So continuing the thread of the raspberry pi, we currently have some magically way of managing our raspberry pi via ssh.

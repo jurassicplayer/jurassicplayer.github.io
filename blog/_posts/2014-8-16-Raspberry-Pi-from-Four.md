@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from Four
-tags: [Application, Archlinux, FTP, FTPS, Linux, Management, NFS, Raspberry Pi, rsync, Samba, scp, Setup, SFTP, SSH, SSHFS, Streaming, UPnP/DLNA, Video]
+tags: [Application, Archlinux, FTP, FTPS, Linux, Management, NFS, Raspberry_Pi, rsync, Samba, scp, Setup, SFTP, SSH, SSHFS, Streaming, UPnP/DLNA, Video]
 ---
 
 So we are finally complete with all of our wondrous automation on our raspberry pi and thus, now is the time for a recap of what remaining stuff we need to deal with.

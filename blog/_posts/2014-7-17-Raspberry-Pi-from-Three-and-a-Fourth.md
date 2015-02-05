@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from Three and a Fourth
-tags: [Application, Archlinux, Linux, Management, Raspberry Pi, Rtorrent, Rutorrent, Setup, Torrent]
+tags: [Application, Archlinux, Linux, Management, Raspberry_Pi, Rtorrent, Rutorrent, Setup, Torrent]
 ---
 
 So getting rutorrent onto a raspberry pi is not nearly as amazingly easy as deluge, but hopefully it will be better in the end. Since a lot of the typing work has already been done, I'll just link to the arch wiki which should get you most of the way there. Just make sure to copy the template .rtorrent.rc to your home directory with "cp /usr/share/doc/rtorrent/rtorrent.rc ~/.rtorrent.rc".

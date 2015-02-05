@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi from Three and Three Fourths
-tags: [Application, Archlinux, BakaBT, Linux, Management, Nyaa, Raspberry Pi, Rtorrent, Rutorrent, TokyoToshokan, Torrent]
+tags: [Application, Archlinux, BakaBT, Linux, Management, Nyaa, Raspberry_Pi, Rtorrent, Rutorrent, TokyoToshokan, Torrent]
 ---
 
 Finally we are at the end of setting up our magical torrenting client and all we need to do is have a way to add our anime to an rss watch list. Luckily enough, we have just the plugin that can deal with RSS feeds, but to keep things in order, first we need to decide on a feed to follow.

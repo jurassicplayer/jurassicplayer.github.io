@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Candy Known as rPi
-tags: [Blurb, Internet, Linux, Management, Raspberry Pi, Update]
+tags: [Blurb, Internet, Linux, Management, Raspberry_Pi, Update]
 ---
 
 After leaving everything for around a month to do absolutely nothing, I magically ended up with a raspberry pi that I actually didn't magically end up with. In other words, I bought a raspberry pi for myself and turned it into my very own server. Dubbing it RoriCandy, I made a nice little cardboard box case for it based off of a tutorial on the interwebs somewhere...mostly because I was too cheap to buy some nicer looking supplies.

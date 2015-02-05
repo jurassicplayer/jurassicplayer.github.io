@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KSplash and Liquid Alchemy
-tags: [Anime, Application, Art, Eyecandy, Hatsune, Hatsune_Miku, KDE, KSplash, Linux, Miku, QT, Vocaloid]
+tags: [Anime, Application, Art, Eyecandy, Hatsune_Miku, KDE, KSplash, Linux, QT, Vocaloid]
 ---
 It's a new week, and after an entire weekend of just not doing much at all. With the amount of random testing of the KSplashX engine last week, I found some small tidbits here and there without much to offer in terms of making some really fancy looking splash screens. Sure you could add animations here and there using animated images which in and of itself is a LOT of work simply because each frame has to be made and then organized into a single image. I also found out that trying to put a fullscreen animated image isn't something that works, and so I gave up on that front :D.
 

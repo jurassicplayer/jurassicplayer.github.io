@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manga On-The-Go
-tags: [Android, Application, Internet, Manga, Manga Galaxy, Manga Infinite, Manga Rock, Manga Searcher, Manga+, MangaBlitz, MangaWatcher, Mango, Ultimate Manga, Web]
+tags: [Android, Application, Internet, Manga, Manga_Galaxy, Manga_Infinite, Manga_Rock, Manga Searcher, Manga+, MangaBlitz, MangaWatcher, Mango, Ultimate_Manga, Web]
 ---
 
 So with the wonders of having tons of android applications in the palm of my hand, it's a good time to search for more anime/manga related things that can enhance our overall nonproductive past-time. This spans more than just simple things like wallpapers or ringtones, but actual apps that might count as objectively useful. First on the mental list is one that I have been searching for for a very long time is a manga reader. I'm not going to lie, this is going to be one hell of a fucking long post with multiple walls of text. Be prepared. Hug your dakimakura if you have to.
