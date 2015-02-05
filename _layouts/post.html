@@ -11,7 +11,7 @@ layout: default
   </div>
   <div class="tagPanel">
     <span>Tags: </span>
-    {% for t in post.tags %}
+    {% for t in page.tags %}
     <span class="tag"><a href="{{ site.url }}/blog/?tag={{ t }}">{{ t }}</a></span>
     {% endfor%}
   </div>
