@@ -23,6 +23,7 @@ For a free option, it's not terrible but granted it isn't exactly the cream of t
 
 In other words, GIMP should stick to being an image editor rather than a tablet drawing editor, but on the plus side, it is multi-platform.
 
+---
 ####OpenCanvas:####
 
 <img width="40%" align="right" src="http://3.bp.blogspot.com/-lRicC2wLORY/UmYy0Bpij4I/AAAAAAAAAUA/6LPaRA1gbds/s400/opencanvas.png" />
@@ -30,6 +31,7 @@ The not free or multi-platform alternative to the free and/or multi-platform pro
 
 OC ends up being decent (moreso than GIMP), but those useless window borders are a real annoyance and it isn't free (there is a trial version to play with though). At least, they are still developing the program, so I guess your money could be worth it.
 
+---
 ####FireAlpaca:####
 
 <img width="40%" style="padding-right: 20px;" align="left" src="http://2.bp.blogspot.com/-uVuaGwXn854/UmY0pTMvggI/AAAAAAAAAUI/riI26zqtJiI/s400/firealpaca.png" />
@@ -37,6 +39,7 @@ With another free alternative, firealpaca is a relatively newer program availabl
 
 FA is still being developed and there is a suggestion box on their website (so you could always send in suggestions to the team), best of all it's still free, meaning it's totally worth a try...though that lack of linux love...requires some plugs into that suggestion box of theirs.
 
+---
 ####Krita:####
 
 <img width="40%" style="padding-right: 20px;" align="right" src="http://4.bp.blogspot.com/-tM3rLA5CE4k/UmY0pThGJEI/AAAAAAAAAUg/gYE4oRkgTy8/s400/krita.png" />
@@ -44,6 +47,7 @@ The next logical choice in my illogical list pickings is Krita, the free, "kind-
 
 In the end, there is nothing really terrible that I have to say about krita. It's well made and for the most part, does what it's supposed to, but if I had to nitpick, that right click circle menu thing makes no sense to me and is kind of an annoyance with my pen...since it has buttons and thus right-clicks. It's probably best used under a KDE/QT environment since it is a QT application after all, but I currently don't use KDE and LXQT isn't exactly out yet...Maybe one day I'll swap to QT stuffs.
 
+---
 ####Paint Tool SAI:####
 
 <img width="40%" style="padding-right: 20px;" align="left" src="http://3.bp.blogspot.com/-3rqvErRQoB8/UmY0p8Isp8I/AAAAAAAAAUk/qqA26ftp86M/s400/sai.png" />
@@ -51,6 +55,7 @@ The tool that many dA members seem to swear by, and not without reason. It's a f
 
 Paint tool SAI is windows only, which is really depressing, since it is a rather well made program (and then there is the part about it being not free...). It also doesn't seem to be in development anymore, with the latest version being released in...2008.
 
+---
 ####MyPaint:####
 
 <img width="40%" style="padding-right: 20px;" align="right" src="http://2.bp.blogspot.com/-XZatkwVJ2lM/UmY0pXCSYOI/AAAAAAAAAUc/RR3l9YkZY5Q/s400/mypaint.png" />
