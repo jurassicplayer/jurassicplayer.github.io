@@ -11,7 +11,12 @@ layout: default
       <div class="entry" style="max-height: 80px; overflow: hidden;">
         {{ post.content | truncatewords:100}}
       </div>
-      
+      <div class="tagPanel">
+        <span>Tags: </span>
+        {% for t in post.tags %}
+        <span class="tag"><a href="{{ site.url }}/blog/?tag={{ t }}">{{ t }}</a></span>
+        {% endfor%}
+      </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
     <br>
