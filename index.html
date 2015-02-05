@@ -13,8 +13,9 @@ layout: default
       </div>
       <div class="tagPanel">
         <span>Tags: </span>
-        {% for t in post.tags %}
-        <span class="tag"><a href="{{ site.url }}/blog/?tag={{ t }}">{{ t }}</a></span>
+        {% assign sorted_tags = (post.tags | sort) %}
+        {% for t in sorted_tags %}
+          <span class="tag"><a href="{{ site.url }}/blog/?tag={{ t }}">{{ t }}</a></span>
         {% endfor%}
       </div>
       <span><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></span>
