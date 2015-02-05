@@ -9,6 +9,7 @@ Finally we are at the end of setting up our magical torrenting client and all we
 The normal sites that I assume are standard when it comes to searching for this kind of media: Nyaa.se, Tokyo Toshokan, BakaBT, and ShanaProject. Out of these, ShanaProject is probably the most anime-oriented and is kind of specifically a site just for tracking anime and has user specific feeds that you can use to follow and track different fansub groups for different anime. It's the default feed of choice for me, but there are perks to using the others as well. Something to note though, Shanaproject along with Tokyo Toshokan pretty much aggregate torrents from Nyaa (at least in terms of anime), so there isn't much point to using all three of them.
 
 To give a quick run-down of the options aside from ShanaProject:
+
 - BakaBT: A "community" that dislikes leechers and doesn't seem to have any RSS feeds, making automation a bit of a bitch.
 - Nyaa: The defacto tracker for pretty much all of the fansub groups. If they aren't on Nyaa, they are just retarded somehow.
 - Tokyo Toshokan: The best option for all types of media from Japan. It aggregates anime, manga, music, etc. and has a customizable RSS to boot. Also, it has some re-encoders (hi10ani.me) if they actually put up torrents.
@@ -19,11 +20,12 @@ At this point, if you added the anime for each running season, your setup would 
 
 To take rutorrent a little bit farther and make it actually decent as a torrent client for things like older anime series or episodes that are not on the latest feeds of Nyaa or Tokyo Toshokan, I made some extra search engines for the extsearch plugin (thanks to the wonderful and fairly simple examples of the other engines). Just save them into /srv/http/rutorrent/plugin/extsearch/engines/<searchengine>.php files and they should magically appear and be ready for use.
 
-Nyaa: [link](http://pastebin.com/D5S6NCyi)
-SukebeiNyaa: [link](http://pastebin.com/fLgXAAxu)
-TokyoTosho: [link](http://pastebin.com/mS67ZqnX)
+- Nyaa: [link](http://pastebin.com/D5S6NCyi)
+- SukebeiNyaa: [link](http://pastebin.com/fLgXAAxu)
+- TokyoTosho: [link](http://pastebin.com/mS67ZqnX)
 
 Anyways, with that we FINALLY have all of our torrent client/rss aggregator woes fleshed out and out of the way, but we still have one little extra that we can do. After setting up auto ssh authentication (this can be found anywhere on google) from the raspberry pi to your obviously linux-running computer, you can make a rtorrent_notify.sh script to send a notification or something to your computer for when a torrent completes. My script is really simple:
+
     ssh user@host 'DISPLAY=:0 notify-send "New episode ready!" "$1"'  
 
 -Extra Tidbits-

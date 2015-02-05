@@ -15,6 +15,7 @@ Path of Hardcore Manual: Possibly the LEAST productive way to go about dealing w
 In-depth Renaming:
 So renaming isn't quite the most amazing way to do things, but it's currently my chosen method of tackling the problem and of course, I'm not alone in my plight. Thus comes the issue of how exactly are anime lovers supposed to rename their forever expanding archive of anime with the least amount of hassle?
 For this problem, batch renaming is obviously the key to solving the issue and so here comes some file renaming programs that may or may not suit your fancy.
+
 - [Anime Batch Rename](http://sourceforge.net/projects/animerename/) from jigglyslime
 - [AnimeBatchRename](https://github.com/Deathspike/AnimeBatchRename) from Deathspike
 - FileBot (http://www.filebot.net/)

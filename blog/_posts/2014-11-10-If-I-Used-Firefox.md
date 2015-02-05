@@ -9,6 +9,7 @@ So I somewhat follow the Linux Action Show because at some point I started follo
 Firefox itself doesn't really surprise me or anything, it's just a simple web browser with the normal features that I'd expect. Rather, I went exploring for some extensions and userscripts to make everything cooler for the generic me. Most of the stuff I came across were extremely limited and so the list was wonderfully short.
 
 Extensions:
+
 - Adblock Plus: Well this one was a given. Obvious reasons are obvious.
 - Ank Pixiv Tool: A rather nice one-click button that you can use to download pixiv images, though it doesn't exactly click together with the userscripts I also found and thought worked well. For the unenhanced pixiv experience though, this makes downloads simpler, even if only by a smidgen.
 - Download Status Bar: This really isn't something needed or anything, but I'm a chrome/chromium user...I'm used to it.
@@ -20,6 +21,7 @@ Extensions:
 - TinEye Reverse Image Search: Sometimes it's just too much effort to use Google's image search when this extension has a right click context menu option.
 
 Userscripts:
+
 - Get Random Anime: It adds a link to the top of any myanimelist anime list and returns a random anime that isn't on said list. It's uses are limited, but at least it could waste some time if need be.
 - Pixiv++: Adds some rather nifty features that make browsing Pixiv even more unbearably hard to stop.
 - Manga OnlineViewer: Honestly this reminds me of android manga readers. It has the standard load all pages in one page, but it also has a great toggle-able thumbnail filmstrip on the bottom to jump to any page in the chapter.

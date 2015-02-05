@@ -20,6 +20,7 @@ The contents inside each resolution folder is pretty basic. It consists of a sin
 As for the file names of these images, they can literally be almost anything you want, but you are going to need to type those into the description.txt so shorter is nicer...probably. Which brings up the next section of this post: the description.txt.
 
 The meat of your KSplashX theme, this file tells what pictures to show, in what order, where to show them, etc. So, tossing formatting to the wind, I'll just list this stuff out.
+
 - SCALE : It seems to have the option of "ON" or "OFF". For better or worse, I'm leaving it on since it seems to be what everyone else does.
 - SCALEX : I can only assume it has something to do with scaling in the X axis (option of "ON" and probably "OFF").
 - SCALEY : Likewise for the Y axis.
@@ -30,17 +31,20 @@ The meat of your KSplashX theme, this file tells what pictures to show, in what 
 - STOP_ANIM : As one could expect, it stops the image defined.
 
 So a quick semi-deeper look at ANIM_REL and IMAGE_REL, which place an animated and static image respectively in the order described in the description.txt.
+
 Examples:
-ANIM_REL 1 CC -320 200 CC 50 animation.png 30 20
-IMAGE_REL CC -50 100 CC image.png
+
+    ANIM_REL 1 CC -320 200 CC 50 animation.png 30 20
+    IMAGE_REL CC -50 100 CC image.png
 
 In the ANIM_REL, the first number represents what animation it is defined as so that, if needed, you can stop the animation later on using STOP_ANIM #. Next is "CC" which just seems to be about the equivalent of a separator...though I would like to think there is some secret function to them that I just don't know yet. Afterwards it's the offset of the image from the center of the screen X and Y respectively (negative towards the left and top, positive towards the right and bottom) followed by a second separator. This next number is the total number of frames in your animation (which in the example animation above, is 41) and then the actual image, followed up by the delay between each frame in...milliseconds for all I know. Finally, the 20 is the number of times to loop through the animation and can be omitted to have the animation loop until stopped or the splashscreen finishes. IMAGE_REL is set up exactly the same way, but removes the way to call back on the image (the 1 in ANIM_REL) as well as the number of frames and delay between each frame, since obviously a static image doesn't need them.
 
 Some quirks to note about using transparency in the splash screen.
+
 - Animated pngs WILL crop each other when overlapped, cutting the previous image with the newer one, regardless if the newer one has that section transparent or not.
 - Placing a static image before starting an animation or another transparent image will result in the expected result of having the static image included in the transparency of the newer image.
-- Images after animated pngs overlapped, but before stopping the animation will result in the animated image having a higher priority than the static image and cut into the static image.
-Images overlapping after animated pngs are stopped will crop into the now stopped animated png instead of incorporating the now static animation into the transparency.
+- Images after animated pngs overlapped, but before stopping the animation will result in the animated image having a higher priority than the static image and cut into the static image. Images overlapping after animated pngs are stopped will crop into the now stopped animated png instead of incorporating the now static animation into the transparency.
+
 - You can start or place multiple images/animations almost anywhere inbetween each loading state and have them appear at roughly the same time.
 
 I've also noticed that on my computer, if I stop the animations before a certain point, the stopped animations seem to vanish completely for some unknown reason. As an extra tidbit though, a DoctorWho themed KSplash that even included a sound file to go along with it. Usage apparently consisted of just putting a bash script (don't forget the .sh at the end...maybe?) in the ~/.kde/env folder that used aplay/mpg123 to play a sound file somewhere on the filesystem.

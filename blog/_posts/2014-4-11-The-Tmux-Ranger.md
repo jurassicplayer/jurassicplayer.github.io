@@ -11,11 +11,15 @@ Eventually a guy was like "w3m works in tmux...let's check what they do" and lo 
 The next issue deals with compositing, because apparently there is also an issue where ranger can't show images when the terminal has compositing on. This means it's either semi-transparent terminal without images or an opaque terminal with images. As far as I can tell, there is no "real" solution for the issue so getting that true transparency terminal AND images in ranger just isn't going to happen.
 
 A "solution" provided by a fellow Arch user consisted of (added to .bashrc):
+    
     alias ranger='nohup urxvt -depth 16 -e ranger && urxvt & exit'
+
 It pretty much just says to change ranger to open up a urxvt terminal with true transparency off entirely so that when ranger is called, you get a solid terminal and those wonderful true color images while closing the previous terminal and then re-opening urxvt after ranger closes out.
 
 In other words, it makes things ugly just to get a ranger terminal out. Not only that, but it also prevents ranger from opening in a tty as well. Of course, I have the best solution because otherwise I wouldn't need to make this post. Granted it is not much better than the command above, but it will give you the next best thing.
+    
     alias ranger='if [[ $DISPLAY == :0 ]]; then urxvt -depth 24 -transparent -shading 25 -e ranger &disown; elif [[ -n "SSH_CLIENT" ]]; then ranger --cmd="set preview_images false"; else ranger; fi' 
+    
 It just adds a quick check if $DISPLAY was set and to spawn urxvt+ranger if it is, or if the tty session is through a ssh connection and just use ascii images, otherwise just running ranger if it isn't. Of course, the spawned terminal also has fake transparency because if I can't have true transparency, I'll settle for some fake.
 
 Pretty much, it seems that in an ssh connection without X, the $DISPLAY isn't set, a ssh with X does get set (though since I just ssh'd into the same computer...it might be set to something than what I saw, but it was "localhost:10.0") but it doesn't really matter since the second if statement catches all ssh connections. It's somewhat important to differentiate between ssh and normal because you can't pass the framebuffer over ssh without using ssh -X (and since I never do ssh with X, I have no idea how it works). The final bit catches the rest of the ranger calls, which would maybe be tty1-9 etc. on the local computer and spawn ranger normally without the extra urxvt.

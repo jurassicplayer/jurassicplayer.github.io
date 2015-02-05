@@ -7,10 +7,12 @@ tags: [Anime, anonymous, Application, Archiving, Archlinux, DNSCrypt, Gufw, HTTP
 So we are finally at the end of the great raspberry pi journey for media serving and the last thing we really need is a way to protect our precious collection. This can be encompassed into two main ideas: protecting what goes in and out of your computer via the network, and protecting the stuff on your filesystem. Most of this I can't go in-depth about, but the general idea is to have a firewall for filtering what stuff comes in, encrypt and proxy around stuff that goes out, and encrypt the files in your filesystem. I have next to no opinions for any of these since I do none of them :D. But I'll still list stuff off the top of my head that pertain to it.
 
 Firewall:
+
 - IPTables: Pretty much the baseline for firewalls on Linux, most of everything else is a frontend.
 - Any of the IPTables front-ends (Gufw is apparently one of the popular ones)
 
 Encrypting Traffic out:
+
 - Https for everything (both firefox and chromium have plugins for HTTPS everywhere)
 - SSL/TLS for everything (this and HTTPS are more about protecting your web browsing)
 - DNSCrypt: Helps prevent spying and man-in-the-middle attacks because apparently your IP can still be leaked to the ISP even with https/vpn/ssl, and guess what, it just wraps your DNS conversation stuff in SSL as well :D.
@@ -18,6 +20,7 @@ Encrypting Traffic out:
 - A seed box: It downloads for you and then you can get the files over ftp or something...aka connect your raspberry pi to a network that isn't yours and use ngrok to be able to connect to it...but you better be damn confident that it's not going to go down easy.
 
 Encrypting File System:
+
 - Once upon a time it was TrueCrypt...maybe there will be a derivative somewhere later on.
 - [Tomb](https://www.dyne.org/software/tomb/): Not only is it witty, but it's quite good...as long as you don't lose your key and password...which you still need to hide somewhere.
 

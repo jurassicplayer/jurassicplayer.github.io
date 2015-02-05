@@ -19,6 +19,7 @@ For the first point, we are going to need to have some way of managing the raspb
 
 Setting a static IP:
 To set up a static IP on your raspberry pi is actually pretty easy thanks to netctl (remember this is Archlinux, I'm not going to care about other distros). Simply "cd /etc/netctl/examples", check what examples match your setup (ethernet-static, wireless-wpa-static, etc.) and copy that into the parent directory with "sudo cp ethernet-static ..". A little bit of editing is needed, so we will need to use "sudo nano ../ethernet-static" and it should say 
+
     Description='A basic static ethernet connection'
     Interface=eth0
     Connection=ethernet

@@ -9,6 +9,7 @@ During the many hard times that may occur over the span of your anime otaku life
 So that brings us to the wonderful MAL clients available to us for android because I don't have or want iOS stuff (aside from my ipods). As with many projects related towards anime fandom, they either die really really quickly or die slow deaths, examples will be Herro and MAL respectively. There was no reason to point out any examples, but I did anyways. Anyways, there are a number of MAL clients and this will probably end up being similar to the manga viewer post. Once again, I'll state what I'm planning on judging this time as well. Primarily interface will be rather important, as well as speed. While extra features are definitely a plus, having a MAL client do the basic shit is essential, which includes updating your anime/manga list with additions, removals, scores, changing statuses, and giving some info about anime. To make things more confusing, we will be going in reverse order.
 
 The list of android MAL clients I'm looking at:
+
 - Atarashii!
 - Pocket MAL Client
 - MAL for Android 2
@@ -27,5 +28,5 @@ Atarashii!: One of the newer clients that does a couple things I find rather con
 
 So after another steel wall of solid text, we come to the conclusion of which MAL client is better. Between Atarashii and Pocket MAL, it's really sort of a toss up of preferences. As just a MAL client, Pocket MAL is spectacular and covers pretty much everything that you can do in MAL with your lists with a great UI and Auto Date. For something that can give you a fairly complete experience from season to season, Atarashii can cover you with it's pages for the upcoming anime and even stuff you might want to check out. Now all we need is for the two clients to combine together to pierce the heavens and have an application that looks fucking amazing, can do everything you can do with MAL for series editing, AND provide shit from start to finish. For myself, I will be sticking with Atarashii since my current flow relies mainly on the computer for starting series and so having the ability to search for new series that strike my fancy and add those to my list while on the go trumps having Auto Date in my case.
 
-- Edit 09/04/24 -
+\- Edit 09/04/24 - <br>
 I thought I would add one more to the list because it's going to be short. The application is called "AnimeTrakr" and it has a rather nice UI along with the ability to look at the running anime. There are some things that make keeping up-to-date really nice with screencaps of episodes and things. The only really problem is that those features apparently cost money and as far as I can tell, there isn't any MAL sync in the free version.

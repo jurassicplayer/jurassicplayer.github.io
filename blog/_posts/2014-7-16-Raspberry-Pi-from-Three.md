@@ -12,7 +12,9 @@ So with a great file system on your hard drive, we need to do a quick addition t
 - Maybe something to hide ourselves so we aren't blatantly telling the world that anime is all we ever want
 
 Now to mount our drive at boot. Just pop open /etc/fstab with something like "sudo nano /etc/fstab" or any other preferred text editor. You will need to know where your block device is (/dev/sda1, /dev/sda2, /dev/sdb1, etc.) and just slap an entry along the lines of 
-    /dev/sda1     <some mount point>   <file system type (ie. ext4, ntfs, )>         defaults       0     0
+
+    /dev/sda1     <some mount point>   <file system type (ie. ext4, ntfs, etc)>         defaults       0     0
+
 If your device mounts and the permissions are wrong, you might not be able to write anything unless you use root. When this happens, add "defaults,uid=1000,gid=1000" or whatever options you are mounting your drive with. And with that, we can finally continue towards tackling the next major issue on our list of things to deal with, the RSS aggregator.
 
 There is a small number of programs at our disposal that we can use to deal with this problem, with the most notable ones being sickbeard (not really) and flexget. After that there are some others like rssdler, couchpotato, etc. that I didn't look into. Aside from these, there are also some RSS aggregators that are included (usually as a plugin) in torrent clients like deluge or rutorrent (frontend to rtorrent).
