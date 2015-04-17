@@ -40,6 +40,8 @@ The not free or multi-platform alternative to the free and/or multi-platform pro
 OC ends up being decent (moreso than GIMP), but those useless window borders are a real annoyance and it isn't free (there is a trial version to play with though). At least, they are still developing the program, so I guess your money could be worth it.
 <br />
 <br />
+<br />
+<br />
 
 ---
 ####FireAlpaca:####
@@ -57,6 +59,7 @@ The next logical choice in my illogical list pickings is Krita, the free, "kind-
 
 In the end, there is nothing really terrible that I have to say about krita. It's well made and for the most part, does what it's supposed to, but if I had to nitpick, that right click circle menu thing makes no sense to me and is kind of an annoyance with my pen...since it has buttons and thus right-clicks. It's probably best used under a KDE/QT environment since it is a QT application after all, but I currently don't use KDE and LXQT isn't exactly out yet...Maybe one day I'll swap to QT stuffs.
 <br />
+<br /><br />
 
 ---
 ####Paint Tool SAI:####
@@ -69,7 +72,7 @@ Paint tool SAI is windows only, which is really depressing, since it is a rather
 ---
 ####MyPaint:####
 
-<img width="40%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-XZatkwVJ2lM/UmY0pXCSYOI/AAAAAAAAAUc/RR3l9YkZY5Q/s400/mypaint.png" />
+<img width="50%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-XZatkwVJ2lM/UmY0pXCSYOI/AAAAAAAAAUc/RR3l9YkZY5Q/s400/mypaint.png" />
 Last but not least is the free MyPaint. It's a nifty little program that could be considered a decent replacement to Paint Tool SAI and is my favorite for linux at the moment. It even has a [brush pack](http://lordofelemental.deviantart.com/art/shameless-Paint-Tool-SAI-MyPaint-Brush-Pack-370633532) that mimics the SAI brushes. The windows are all floating, can be toggled with keyboard shortcuts, but there is the window border...though in linux that is more of a convenience (most window managers are fairly flexible).
 
 To be completely honest, I enjoyed drawing with MyPaint more than the other programs available for linux due to simple annoyances with my pen and tablet...which probably could have been fixed if I cared to put the effort to it. The updates are kind of infrequent compared to krita or gimp (though it isn't like MyPaint has a huge team of people behind it...), but is totally useable as it is anyways so having updates at all is a plus.
