@@ -26,6 +26,10 @@ In other words, GIMP should stick to being an image editor rather than a tablet 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 ---
 ####OpenCanvas:####
@@ -34,6 +38,8 @@ In other words, GIMP should stick to being an image editor rather than a tablet 
 The not free or multi-platform alternative to the free and/or multi-platform programs which may or may not suit you more. Interface is kind of meh in my opinion. It's not lacking in features, but those window borders do take up space unless you hide the windows.
 
 OC ends up being decent (moreso than GIMP), but those useless window borders are a real annoyance and it isn't free (there is a trial version to play with though). At least, they are still developing the program, so I guess your money could be worth it.
+<br />
+<br />
 
 ---
 ####FireAlpaca:####
@@ -50,6 +56,7 @@ FA is still being developed and there is a suggestion box on their website (so y
 The next logical choice in my illogical list pickings is Krita, the free, "kind-of multi-platform" program from the Calligra suite. It's window management is decent, though you can't exactly do anything you want like in FireAlpaca. It's a rather mature project though and of course is still being worked on.
 
 In the end, there is nothing really terrible that I have to say about krita. It's well made and for the most part, does what it's supposed to, but if I had to nitpick, that right click circle menu thing makes no sense to me and is kind of an annoyance with my pen...since it has buttons and thus right-clicks. It's probably best used under a KDE/QT environment since it is a QT application after all, but I currently don't use KDE and LXQT isn't exactly out yet...Maybe one day I'll swap to QT stuffs.
+<br />
 
 ---
 ####Paint Tool SAI:####
