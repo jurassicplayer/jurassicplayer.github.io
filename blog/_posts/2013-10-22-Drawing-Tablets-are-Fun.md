@@ -25,8 +25,8 @@ In other words, GIMP should stick to being an image editor rather than a tablet 
 
 ---
 ####OpenCanvas:####
-
 <img width="35%" style="padding-left: 20px;" align="right" src="http://3.bp.blogspot.com/-lRicC2wLORY/UmYy0Bpij4I/AAAAAAAAAUA/6LPaRA1gbds/s400/opencanvas.png" />
+
 The not free or multi-platform alternative to the free and/or multi-platform programs which may or may not suit you more. Interface is kind of meh in my opinion. It's not lacking in features, but those window borders do take up space unless you hide the windows.
 
 OC ends up being decent (moreso than GIMP), but those useless window borders are a real annoyance and it isn't free (there is a trial version to play with though). At least, they are still developing the program, so I guess your money could be worth it.
@@ -53,7 +53,7 @@ In the end, there is nothing really terrible that I have to say about krita. It'
 <img width="40%" style="padding-right: 20px;" align="left" src="http://3.bp.blogspot.com/-3rqvErRQoB8/UmY0p8Isp8I/AAAAAAAAAUk/qqA26ftp86M/s400/sai.png" />
 The tool that many dA members seem to swear by, and not without reason. It's a fairly cheap buy or you could try it out with it's 30-day trial. Tool bar management is about the same as krita and you can set keybindings yourself. Supposedly the brush engine is marvelous, but I'm an amateur in this sort of thing so the best I can say is that I enjoy using SAI.
 
-Paint tool SAI is windows only, which is really depressing, since it is a rather well made program (and then there is the part about it being not free...). It also doesn't seem to be in development anymore, with the latest version being released in...2008.
+Paint tool SAI is windows only, which is really depressing, since it is a rather well made program (and then there is the part about it being not free...). It also doesn't seem to be in development anymore, with the latest version being released in...2008 and it's been a while since then.
 
 ---
 ####MyPaint:####
