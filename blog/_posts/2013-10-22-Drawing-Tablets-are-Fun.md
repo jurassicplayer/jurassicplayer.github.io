@@ -61,7 +61,7 @@ Paint tool SAI is windows only, which is really depressing, since it is a rather
 ---
 ####MyPaint:####
 
-<img width="35%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-XZatkwVJ2lM/UmY0pXCSYOI/AAAAAAAAAUc/RR3l9YkZY5Q/s400/mypaint.png" />
+<img width="30%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-XZatkwVJ2lM/UmY0pXCSYOI/AAAAAAAAAUc/RR3l9YkZY5Q/s400/mypaint.png" />
 Last but not least is the free MyPaint. It's a nifty little program that could be considered a decent replacement to Paint Tool SAI and is my favorite for linux at the moment. It even has a [brush pack](http://lordofelemental.deviantart.com/art/shameless-Paint-Tool-SAI-MyPaint-Brush-Pack-370633532) that mimics the SAI brushes. The windows are all floating, can be toggled with keyboard shortcuts, but there is the window border...though in linux that is more of a convenience (most window managers are fairly flexible).
 
 To be completely honest, I enjoyed drawing with MyPaint more than the other programs available for linux due to simple annoyances with my pen and tablet...which probably could have been fixed if I cared to put the effort to it. The updates are kind of infrequent compared to krita or gimp (though it isn't like MyPaint has a huge team of people behind it...), but is totally useable as it is anyways so having updates at all is a plus.
