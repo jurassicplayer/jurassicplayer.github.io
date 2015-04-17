@@ -67,14 +67,14 @@ This program is one that gets fairly regular updates throughout the year and hon
 ---
 ####MyPaint (Linux/Windows/Mac):####
 
-<img width="40%" style="padding-right: 20px;" align="left" src="http://2.bp.blogspot.com/-DHZN89h4sGk/VJwREJjViCI/AAAAAAAAApA/M97BLSR8HRI/s1600/mypaint.png" />
+<img width="35%" style="padding-right: 20px;" align="left" src="http://2.bp.blogspot.com/-DHZN89h4sGk/VJwREJjViCI/AAAAAAAAApA/M97BLSR8HRI/s1600/mypaint.png" />
 Previously this was my favorite art program for linux and so I had some decent hopes for it on Windows despite knowing that there would definitely be bugs. Updates are not lightning fast and the current version is 1.1.0. Somehow the UI had a little bit of a revamp since the last time I tried the Windows version, but it was also broken. Moving around some of the windows was impossible, and I had to compromise with tabs. This isn't present in the linux version though and honestly my recent try of MyPaint on linux was commendable. It has relatively little extras like a scratchpad and some layer blending modes, and for the most part is a plain and simple drawing application. If anything, I would consider MyPaint in the better half of this entire list despite it's lack of the finer image editing features like a selection tool. This does make corrections a slight hassle if you aren't accustomed to reworking your stuff, but in a sense, it does provide a closer experience to the pen and paper.
 <br /><br />
 
 ---
 ####PaintTool SAI (Windows):####
 
-<img width="40%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-XzsSepu7dg0/VKMW-0C6oxI/AAAAAAAAApQ/-fahR2-pmxo/s1600/sai.png" />
+<img width="35%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-XzsSepu7dg0/VKMW-0C6oxI/AAAAAAAAApQ/-fahR2-pmxo/s1600/sai.png" />
 Once again, we come around to PaintTool Sai and the original reason why I wanted to give everything a second shot. It was surprisingly updated within this past year to version 1.2.0, but as far as I can tell, nothing has really changed at all. Supposedly there is also another version in development that is available for download. That was updated earlier than 1.2.0, so it's technically older going purely by the date, but it's apparently a complete revamp of SAI. At this point, I'm fairly used to the interface despite it being an older styled UI unlike the windowed UIs that a lot of other programs tend towards. There is something about the brush engine that just feels nice about SAI and thus even after a year of much derping, I still enjoy drawing on SAI. Of course, I still gripe about SAI not being on linux, but it isn't like that is going to change anything.
 <br /><br /><br />
 
