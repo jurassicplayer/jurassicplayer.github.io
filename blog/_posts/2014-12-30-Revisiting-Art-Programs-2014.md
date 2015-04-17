@@ -21,7 +21,7 @@ Following the previous post on the matter, the images shown are just sketches an
 
 ####Krita (Linux/Windows):####
 
-<img width="40%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-NBsb5w-KIF0/VJlPT8TdAiI/AAAAAAAAAnU/IW-ktZm7GO4/s1600/krita.png" />
+<img width="42%" style="padding-left: 20px;" align="right" src="http://2.bp.blogspot.com/-NBsb5w-KIF0/VJlPT8TdAiI/AAAAAAAAAnU/IW-ktZm7GO4/s1600/krita.png" />
 What better program to start off with than the premier artwork studio for the linux world. As of this post, the current Windows version is 2.8.3 and honestly I only did the most basic of things with krita, but it does have the ability to select sections, crop, cut, apply filters, etc. In short, it's still pretty much a mixture between a standard painting application with some of the finer pieces of GIMP included. Probably most of the actual drawing artwork can be done with just Krita and maybe even be used to completely finish images, or just add those finishing touches in GIMP. There was some noticeable lag with some of the brushes, though whether by design or not, I don't know. While it didn't hinder my drawing, it was a problem while filling in some white background. Possibly it might just be a Windows only bug. Drawing in Krita doesn't feel bad, but there are other alternatives that just feel better, and that is what I'm judging on this time around.
 
 ---
