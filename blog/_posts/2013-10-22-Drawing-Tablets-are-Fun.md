@@ -22,11 +22,7 @@ So to go down the list, we'll start with GIMP because forget starting with the t
 For a free option, it's not terrible but granted it isn't exactly the cream of the crop in terms of use with a tablet. The interface is pretty standard and you can manipulate the tool windows to your liking (floating or single-window mode). The sensitivity and brushes can be customized and all, but being the lazy guy I am, drawing with gimp out of the box isn't spectacular.
 
 In other words, GIMP should stick to being an image editor rather than a tablet drawing editor, but on the plus side, it is multi-platform.
-<br />
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br />
 
 ---
 ####OpenCanvas:####
