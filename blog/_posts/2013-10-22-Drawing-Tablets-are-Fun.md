@@ -18,15 +18,19 @@ So to go down the list, we'll start with GIMP because forget starting with the t
 
 ####GIMP:####
 
-<img width="30%" style="padding-right: 20px;" align="left" src="http://1.bp.blogspot.com/-nMgeZ9QBwv0/UmYxCVlOcoI/AAAAAAAAAT0/oHTySDWaYfo/s320/gimp.png" />
+<img width="40%" style="padding-right: 20px;" align="left" src="http://1.bp.blogspot.com/-nMgeZ9QBwv0/UmYxCVlOcoI/AAAAAAAAAT0/oHTySDWaYfo/s320/gimp.png" />
 For a free option, it's not terrible but granted it isn't exactly the cream of the crop in terms of use with a tablet. The interface is pretty standard and you can manipulate the tool windows to your liking (floating or single-window mode). The sensitivity and brushes can be customized and all, but being the lazy guy I am, drawing with gimp out of the box isn't spectacular.
 
 In other words, GIMP should stick to being an image editor rather than a tablet drawing editor, but on the plus side, it is multi-platform.
 
+
+
+
+
 ---
 ####OpenCanvas:####
-<img width="35%" style="padding-left: 20px;" align="right" src="http://3.bp.blogspot.com/-lRicC2wLORY/UmYy0Bpij4I/AAAAAAAAAUA/6LPaRA1gbds/s400/opencanvas.png" />
 
+<img width="35%" style="padding-left: 20px;" align="right" src="http://3.bp.blogspot.com/-lRicC2wLORY/UmYy0Bpij4I/AAAAAAAAAUA/6LPaRA1gbds/s400/opencanvas.png" />
 The not free or multi-platform alternative to the free and/or multi-platform programs which may or may not suit you more. Interface is kind of meh in my opinion. It's not lacking in features, but those window borders do take up space unless you hide the windows.
 
 OC ends up being decent (moreso than GIMP), but those useless window borders are a real annoyance and it isn't free (there is a trial version to play with though). At least, they are still developing the program, so I guess your money could be worth it.
