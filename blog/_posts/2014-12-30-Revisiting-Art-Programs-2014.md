@@ -40,7 +40,7 @@ As one of the normal recommends by various people in the internets, I decided to
 ---
 ####Pinta (Linux/Windows/Mac):####
 
-<img width="40%" style="padding-right: 20px;" align="left" src="http://2.bp.blogspot.com/-197JpNhQpJE/VJoupStAXVI/AAAAAAAAAoA/l5iUo3wuHgY/s1600/pinta.png" />
+<img width="36%" style="padding-right: 20px;" align="left" src="http://2.bp.blogspot.com/-197JpNhQpJE/VJoupStAXVI/AAAAAAAAAoA/l5iUo3wuHgY/s1600/pinta.png" />
 Pinta is more or less modeled after Paint.NET and thus it has a large number of similarities with Paint.NET in being much more image editor heavy rather than art creation heavy. As of this post, it is version 1.5. Once again there is little use for a tablet with this program, but thanks to having a model to take from, most if not all of the same filters, effects, color correction tools, etc. are readily available. In terms of the interface itself, I like the capabilities that Pinta provides where the windows can be put as side panels, tabs, separate windows, and even tabs alongside the actual canvas. It also extendable with add ins which is a definite plus...but in terms of actual plugins made for Pinta...well they are lacking. It's better than Paint.NET at being Paint.NET, but aside from the rather flexible UI, I can't say I would toss GIMP away for Pinta either.
 <br /><br />
 
@@ -54,9 +54,9 @@ So yet another totally not relevant image editor that lengthens this post. The i
 ---
 ####GIMP (Linux/Windows/Mac):####
 
-<img width="40%" style="padding-right: 20px;" align="left" src="http://4.bp.blogspot.com/-HSL11G-KR1s/VJpOsZYqffI/AAAAAAAAAog/eX6iLY_KcXo/s1600/gimp.png" />
+<img width="30%" style="padding-right: 20px;" align="left" src="http://4.bp.blogspot.com/-HSL11G-KR1s/VJpOsZYqffI/AAAAAAAAAog/eX6iLY_KcXo/s1600/gimp.png" />
 So we come to one of the few major feature-full image editors available for linux. A variety of people claim that GIMP is about the equivalent of Photoshop (or a subpar version of photoshop), but since I have never understood Photoshop, I can't really claim whether one is better than the other for any specific reason. The version is currently 2.8.14. GIMP is pretty extensible with plugins, brushes, and it allows for numerous custom additions that the community has taken advantage of and thus there is a gallery of features available through plugins. In terms of actual artwork, it's meh. A little fiddly to get things started, as I had to go to Edit > Input Devices and change the mode of my tablet stuff to screen/window before I could get the pressure sensitivity to work well. Surprisingly enough, there is an input lag bug due to libcairo and Gimp's ruler (#736411) which can be worked around by hiding the rulers that are normally shown by default. The brush engine in GIMP isn't spectacular, but it gets the job done and with a little tweaking, I'm sure the pressure sensitivity could be a lot better. With just stock settings, it feels kind of light for the amount of pressure I'm exerting, but otherwise it's not particularly bad.
-<br /><br /><br /><br />
+<br /><br /><br />
 
 ---
 ####OpenCanvas (Windows):####
