@@ -7,6 +7,7 @@ tags: [Android, Application, Internet, Manga, Manga_Galaxy, Manga_Infinite, Mang
 So with the wonders of having tons of android applications in the palm of my hand, it's a good time to search for more anime/manga related things that can enhance our overall nonproductive past-time. This spans more than just simple things like wallpapers or ringtones, but actual apps that might count as objectively useful. First on the mental list is one that I have been searching for for a very long time is a manga reader. I'm not going to lie, this is going to be one hell of a fucking long post with multiple walls of text. Be prepared. Hug your dakimakura if you have to.
 
 Reading manga from online is a fairly funny experience thanks to the nature of it and thus the list of manga readers is constantly fluctuating. Luckily some don't die, even after being pulled from the Play Store, and so this comparative list will encompass some of those as well. Now there are a lot of shitty manga readers and this list will completely ignore most of those. The ones that I will look at are:
+
 - Manga Galaxy
 - Manga Infinite
 - Manga+/MangaBlitz
@@ -17,6 +18,7 @@ Reading manga from online is a fairly funny experience thanks to the nature of i
 - Ultimate Manga
 
 So we have a list of applications, now we need some criteria to go on. My criteria is rather shoddy, but as long as it accomplishes them, they are good in my book.
+
 - Nice, easy to maneuver interface
 - Basic features (notification of new chapters, backup/restore, filtering/search, offline library)
 - Aesthetically pleasing
