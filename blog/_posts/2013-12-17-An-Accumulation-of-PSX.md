@@ -9,6 +9,7 @@ So the PSX was a cool console system from ages ago with actually decent games. W
 Apparently there are quite a few emulators for the playstation now, though really I could care less about most of them besides PCSX-R because who doesn't love stuff that is constantly being updated. That said, I'm a lazy guy so in my case, I just stick with retroarch anyways. Unfortunately the point of this post isn't really for recommending anything (though if I had to recommend, retroarch is it) and instead I'm going to be talking about psx iso compression because "first world problems" the isos are fucking big.
 
 There are multiple ways to reduce the size of the iso and some can be compounded to reduce the iso further...but for the most part, the methods consist of either:
+
 - a) Remove shit from the game
 - b) Use algorithms to compress
 
