@@ -125,38 +125,6 @@ body {
 	background-image: linear-gradient(to bottom, #808080, #505050);
 	text-decoration: none;
 }
-
-
-/* Loading Page */ 
-.loader {
-	position: fixed;
-	left: 0px;
-	top: 0px;
-	width: 100%;
-	height: 100%;
-	z-index: 9999;
-	background: url('resources/webimage/loadBase.png') 50% 50% no-repeat rgb(52,52,52);
-}
-.loading {
-	position: fixed;
-	left: 0px;
-	top: 5px;
-	width: 100%;
-	height: 100%;
-	z-index: 9998;
-	background: url('resources/webimage/loadAction.png') 50% 50% no-repeat;
-	-webkit-animation-name: loadingAnimation;
-    -webkit-animation-duration: 3s;
-    -webkit-animation-timing-function: linear;
-    -webkit-animation-delay: 0s;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-direction: normal;
-    -webkit-animation-play-state: running;
-}
-@-webkit-keyframes loadingAnimation {
-	from {-webkit-transform: rotate(0deg);}
-	to {-webkit-transform: rotate(360deg);}
-}
 .tag-posts {
     display: none;
 }
